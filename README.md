@@ -6,9 +6,7 @@ As a software engineer, this repository records my efforts in learning more abou
 This program serves to be an easy way for me to store my favorite recipes.
 The user can select a recipe, and the program will output the ingredients.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/sBRCMZhpzbA)
 
 # Development Environment
 
